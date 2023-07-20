@@ -14,10 +14,11 @@
                 "GitHub.copilot"
             ]
         },
-        "postCreateCommand": {
+        "codespaces": {
             "openFiles": [
                 "codespace.md"
             ]
         }
-    }
-  }
+    },
+    "postCreateCommand": []
+}
