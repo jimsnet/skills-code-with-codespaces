@@ -14,7 +14,7 @@
                 "GitHub.copilot"
             ]
         },
-        "codespaces": {
+        "postCreateCommand": {
             "openFiles": [
                 "codespace.md"
             ]
